@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michael24-byte
+- 👋 Hi, I’m Michael T Butler
 - 👀 I’m interested in Data Science, AI, Machine Learning, and everything about Python
 - 🌱 I’m currently learning to perfect my skills
 - 💞️ I’m looking to collaborate on Python and data science projects
